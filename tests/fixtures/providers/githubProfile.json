@@ -1,0 +1,17 @@
+{
+  "sub": "github-user-12345678",
+  "login": "johndoe",
+  "id": 12345678,
+  "node_id": "MDQ6VXNlcjEyMzQ1Njc4",
+  "avatar_url": "https://avatars.githubusercontent.com/u/12345678",
+  "name": "John Doe",
+  "email": "johndoe@users.noreply.github.com",
+  "company": "Acme Corp",
+  "location": "San Francisco, CA",
+  "bio": "Software Developer",
+  "public_repos": 42,
+  "followers": 100,
+  "following": 50,
+  "created_at": "2020-01-15T10:30:00Z",
+  "updated_at": "2024-01-15T12:00:00Z"
+}

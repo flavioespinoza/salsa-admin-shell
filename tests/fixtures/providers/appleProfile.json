@@ -1,0 +1,12 @@
+{
+  "sub": "apple-user-001234.abcdef123456.7890",
+  "email": "johndoe@privaterelay.appleid.com",
+  "email_verified": true,
+  "is_private_email": true,
+  "real_user_status": 2,
+  "name": {
+    "firstName": "John",
+    "lastName": "Doe"
+  },
+  "auth_time": 1705320000
+}

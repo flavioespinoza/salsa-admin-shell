@@ -1,0 +1,34 @@
+{
+  "general": {
+    "title": "General Settings",
+    "language": "Language",
+    "timezone": "Timezone",
+    "dateFormat": "Date Format",
+    "theme": "Theme",
+    "themes": {
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System"
+    }
+  },
+  "security": {
+    "title": "Security Settings",
+    "mfa": "Two-Factor Authentication",
+    "mfaDescription": "Add an extra layer of security to your account.",
+    "sessionTimeout": "Session Timeout",
+    "passwordPolicy": "Password Policy",
+    "ipWhitelist": "IP Whitelist"
+  },
+  "notifications": {
+    "title": "Notification Settings",
+    "email": "Email Notifications",
+    "push": "Push Notifications",
+    "sms": "SMS Notifications",
+    "frequency": "Notification Frequency"
+  },
+  "actions": {
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "reset": "Reset to Defaults"
+  }
+}

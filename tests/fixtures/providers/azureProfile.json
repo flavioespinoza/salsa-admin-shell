@@ -1,0 +1,14 @@
+{
+  "sub": "azure-ad-user-guid-12345",
+  "oid": "00000000-0000-0000-0000-000000000001",
+  "tid": "00000000-0000-0000-0000-000000000002",
+  "email": "john.doe@contoso.com",
+  "email_verified": true,
+  "name": "John Doe",
+  "given_name": "John",
+  "family_name": "Doe",
+  "preferred_username": "john.doe@contoso.com",
+  "upn": "john.doe@contoso.com",
+  "roles": ["Admin", "User"],
+  "groups": ["Engineering", "DevOps"]
+}

@@ -1,0 +1,28 @@
+{
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "users": "Users",
+    "settings": "Settings",
+    "auditLog": "Audit Log",
+    "providers": "Identity Providers",
+    "applications": "Applications",
+    "policies": "Policies",
+    "reports": "Reports"
+  },
+  "header": {
+    "search": "Search...",
+    "notifications": "Notifications",
+    "profile": "Profile",
+    "help": "Help",
+    "logout": "Sign Out"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "back": "Back"
+  },
+  "tabs": {
+    "general": "General",
+    "security": "Security",
+    "advanced": "Advanced"
+  }
+}

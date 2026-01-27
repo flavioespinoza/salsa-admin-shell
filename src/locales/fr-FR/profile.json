@@ -1,0 +1,32 @@
+{
+  "title": "Profil",
+  "subtitle": "Gérez vos informations personnelles",
+  "fields": {
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Adresse E-mail",
+    "phone": "Numéro de Téléphone",
+    "avatar": "Photo de Profil",
+    "bio": "Biographie",
+    "company": "Entreprise",
+    "jobTitle": "Poste",
+    "location": "Localisation"
+  },
+  "sections": {
+    "personal": "Informations Personnelles",
+    "contact": "Informations de Contact",
+    "preferences": "Préférences"
+  },
+  "actions": {
+    "edit": "Modifier le Profil",
+    "save": "Enregistrer les Modifications",
+    "cancel": "Annuler",
+    "changeAvatar": "Changer l'Avatar",
+    "removeAvatar": "Supprimer l'Avatar"
+  },
+  "status": {
+    "verified": "Vérifié",
+    "unverified": "Non Vérifié",
+    "verifyEmail": "Vérifier l'E-mail"
+  }
+}

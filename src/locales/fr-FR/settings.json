@@ -1,0 +1,34 @@
+{
+  "general": {
+    "title": "Paramètres Généraux",
+    "language": "Langue",
+    "timezone": "Fuseau Horaire",
+    "dateFormat": "Format de Date",
+    "theme": "Thème",
+    "themes": {
+      "light": "Clair",
+      "dark": "Sombre",
+      "system": "Système"
+    }
+  },
+  "security": {
+    "title": "Paramètres de Sécurité",
+    "mfa": "Authentification à Deux Facteurs",
+    "mfaDescription": "Ajoutez une couche de sécurité supplémentaire à votre compte.",
+    "sessionTimeout": "Délai d'Expiration de Session",
+    "passwordPolicy": "Politique de Mot de Passe",
+    "ipWhitelist": "Liste Blanche d'IP"
+  },
+  "notifications": {
+    "title": "Paramètres de Notifications",
+    "email": "Notifications par E-mail",
+    "push": "Notifications Push",
+    "sms": "Notifications SMS",
+    "frequency": "Fréquence des Notifications"
+  },
+  "actions": {
+    "save": "Enregistrer les Modifications",
+    "cancel": "Annuler",
+    "reset": "Réinitialiser par Défaut"
+  }
+}

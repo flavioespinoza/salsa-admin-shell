@@ -1,0 +1,32 @@
+{
+  "title": "Perfil",
+  "subtitle": "Administre su información personal",
+  "fields": {
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo Electrónico",
+    "phone": "Número de Teléfono",
+    "avatar": "Foto de Perfil",
+    "bio": "Biografía",
+    "company": "Empresa",
+    "jobTitle": "Cargo",
+    "location": "Ubicación"
+  },
+  "sections": {
+    "personal": "Información Personal",
+    "contact": "Información de Contacto",
+    "preferences": "Preferencias"
+  },
+  "actions": {
+    "edit": "Editar Perfil",
+    "save": "Guardar Cambios",
+    "cancel": "Cancelar",
+    "changeAvatar": "Cambiar Avatar",
+    "removeAvatar": "Eliminar Avatar"
+  },
+  "status": {
+    "verified": "Verificado",
+    "unverified": "No Verificado",
+    "verifyEmail": "Verificar Email"
+  }
+}

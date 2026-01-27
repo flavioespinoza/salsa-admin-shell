@@ -1,0 +1,32 @@
+{
+  "title": "Profile",
+  "subtitle": "Manage your personal information",
+  "fields": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "avatar": "Profile Picture",
+    "bio": "Bio",
+    "company": "Company",
+    "jobTitle": "Job Title",
+    "location": "Location"
+  },
+  "sections": {
+    "personal": "Personal Information",
+    "contact": "Contact Information",
+    "preferences": "Preferences"
+  },
+  "actions": {
+    "edit": "Edit Profile",
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "changeAvatar": "Change Avatar",
+    "removeAvatar": "Remove Avatar"
+  },
+  "status": {
+    "verified": "Verified",
+    "unverified": "Not Verified",
+    "verifyEmail": "Verify Email"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "sub": "reddit-user-t2_abc123def",
+  "id": "t2_abc123def",
+  "name": "johndoe",
+  "icon_img": "https://styles.redditmedia.com/t5_abc123/styles/profileIcon_snoo.png",
+  "pref_show_snoovatar": true,
+  "snoovatar_img": "https://i.redd.it/snoovatar/snoovatars/abc123.png",
+  "created": 1579132800,
+  "created_utc": 1579132800,
+  "has_verified_email": true,
+  "verified": true,
+  "is_gold": false,
+  "is_mod": true,
+  "link_karma": 5000,
+  "comment_karma": 15000,
+  "total_karma": 20000,
+  "has_subscribed": true,
+  "num_friends": 42
+}

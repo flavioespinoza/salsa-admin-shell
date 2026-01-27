@@ -1,0 +1,13 @@
+{
+  "sub": "okta-user-00u1234567890",
+  "email": "john.doe@company.com",
+  "email_verified": true,
+  "name": "John Doe",
+  "given_name": "John",
+  "family_name": "Doe",
+  "preferred_username": "john.doe@company.com",
+  "locale": "en-US",
+  "zoneinfo": "America/Los_Angeles",
+  "updated_at": 1705320000,
+  "groups": ["Everyone", "Admins", "Developers"]
+}

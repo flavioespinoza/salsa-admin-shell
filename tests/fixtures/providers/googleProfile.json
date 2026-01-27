@@ -1,0 +1,11 @@
+{
+  "sub": "google-user-123456789",
+  "email": "john.doe@gmail.com",
+  "email_verified": true,
+  "name": "John Doe",
+  "given_name": "John",
+  "family_name": "Doe",
+  "picture": "https://lh3.googleusercontent.com/a/default-user",
+  "locale": "en",
+  "hd": "example.com"
+}

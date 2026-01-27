@@ -1,0 +1,28 @@
+{
+  "auth": {
+    "invalidCredentials": "Ungültige E-Mail-Adresse oder ungültiges Passwort.",
+    "accountLocked": "Ihr Konto wurde gesperrt. Bitte kontaktieren Sie den Support.",
+    "sessionExpired": "Ihre Sitzung ist abgelaufen. Bitte melden Sie sich erneut an.",
+    "unauthorized": "Sie sind nicht berechtigt, diese Aktion durchzuführen.",
+    "mfaRequired": "Zwei-Faktor-Authentifizierung ist erforderlich.",
+    "mfaInvalid": "Ungültiger Bestätigungscode. Bitte versuchen Sie es erneut."
+  },
+  "validation": {
+    "required": "Dieses Feld ist erforderlich.",
+    "email": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+    "minLength": "Muss mindestens {{min}} Zeichen haben.",
+    "maxLength": "Darf nicht mehr als {{max}} Zeichen haben.",
+    "passwordMismatch": "Die Passwörter stimmen nicht überein.",
+    "invalidFormat": "Ungültiges Format."
+  },
+  "network": {
+    "connectionFailed": "Verbindung fehlgeschlagen. Bitte überprüfen Sie Ihre Internetverbindung.",
+    "timeout": "Anfrage abgelaufen. Bitte versuchen Sie es erneut.",
+    "serverError": "Etwas ist schiefgelaufen. Bitte versuchen Sie es später erneut."
+  },
+  "generic": {
+    "unknown": "Ein unerwarteter Fehler ist aufgetreten.",
+    "notFound": "Die angeforderte Ressource wurde nicht gefunden.",
+    "forbidden": "Sie haben keine Berechtigung, auf diese Ressource zuzugreifen."
+  }
+}

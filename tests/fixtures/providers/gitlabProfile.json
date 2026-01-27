@@ -1,0 +1,12 @@
+{
+  "sub": "gitlab-user-123456",
+  "sub_legacy": "123456",
+  "name": "John Doe",
+  "nickname": "johndoe",
+  "email": "john.doe@gitlab.com",
+  "email_verified": true,
+  "picture": "https://gitlab.com/uploads/-/system/user/avatar/123456/avatar.png",
+  "profile": "https://gitlab.com/johndoe",
+  "groups": ["mygroup", "anothergroup"],
+  "groups_direct": ["mygroup"]
+}

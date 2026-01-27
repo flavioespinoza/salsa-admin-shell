@@ -1,0 +1,17 @@
+{
+  "sub": "salesforce-user-00500000001234567",
+  "organization_id": "00D000000000001",
+  "user_id": "00500000001234567",
+  "email": "john.doe@salesforce.com",
+  "email_verified": true,
+  "name": "John Doe",
+  "given_name": "John",
+  "family_name": "Doe",
+  "nickname": "JDoe",
+  "preferred_username": "john.doe@company.com",
+  "profile": "https://login.salesforce.com/id/00D000000000001/00500000001234567",
+  "picture": "https://c.salesforce.com/profilephoto/005/F",
+  "zoneinfo": "America/Los_Angeles",
+  "locale": "en_US",
+  "is_app_installed": true
+}

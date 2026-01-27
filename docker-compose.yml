@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  salsa-admin-shell:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:80"
+    environment:
+      - NODE_ENV=production
+      - VITE_OIDC_AUTHORITY=${OIDC_AUTHORITY}
+      - VITE_OIDC_CLIENT_ID=${OIDC_CLIENT_ID}
+      - VITE_OIDC_REDIRECT_URI=${OIDC_REDIRECT_URI}
+    restart: unless-stopped
+    networks:
+      - salsa-network
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "http://localhost:80/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    networks:
+      - salsa-network
+
+networks:
+  salsa-network:
+    driver: bridge
+
+volumes:
+  redis-data:

@@ -1,0 +1,28 @@
+{
+  "sidebar": {
+    "dashboard": "Tableau de Bord",
+    "users": "Utilisateurs",
+    "settings": "Paramètres",
+    "auditLog": "Journal d'Audit",
+    "providers": "Fournisseurs d'Identité",
+    "applications": "Applications",
+    "policies": "Politiques",
+    "reports": "Rapports"
+  },
+  "header": {
+    "search": "Rechercher...",
+    "notifications": "Notifications",
+    "profile": "Profil",
+    "help": "Aide",
+    "logout": "Déconnexion"
+  },
+  "breadcrumb": {
+    "home": "Accueil",
+    "back": "Retour"
+  },
+  "tabs": {
+    "general": "Général",
+    "security": "Sécurité",
+    "advanced": "Avancé"
+  }
+}

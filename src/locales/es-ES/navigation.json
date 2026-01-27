@@ -1,0 +1,28 @@
+{
+  "sidebar": {
+    "dashboard": "Panel de Control",
+    "users": "Usuarios",
+    "settings": "Configuración",
+    "auditLog": "Registro de Auditoría",
+    "providers": "Proveedores de Identidad",
+    "applications": "Aplicaciones",
+    "policies": "Políticas",
+    "reports": "Informes"
+  },
+  "header": {
+    "search": "Buscar...",
+    "notifications": "Notificaciones",
+    "profile": "Perfil",
+    "help": "Ayuda",
+    "logout": "Cerrar Sesión"
+  },
+  "breadcrumb": {
+    "home": "Inicio",
+    "back": "Volver"
+  },
+  "tabs": {
+    "general": "General",
+    "security": "Seguridad",
+    "advanced": "Avanzado"
+  }
+}

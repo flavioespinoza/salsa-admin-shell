@@ -1,0 +1,47 @@
+import type { IAuthProvider, ProviderConfig, AuthorizationParams, OIDCTokens, UserProfile } from '../IAuthProvider';
+
+export class GitHubAdapter implements IAuthProvider {
+  readonly name = 'github';
+  readonly displayName = 'GitHub';
+  readonly authorizeEndpoint = 'https://github.com/login/oauth/authorize';
+  readonly tokenEndpoint = 'https://github.com/login/oauth/access_token';
+  readonly userInfoEndpoint = 'https://api.github.com/user';
+  readonly scopes = ['read:user', 'user:email'];
+
+  private config!: ProviderConfig;
+
+  async initialize(config: ProviderConfig): Promise<void> {
+    this.config = config;
+  }
+
+  getAuthorizationUrl(params: AuthorizationParams): string {
+    const searchParams = new URLSearchParams({
+      client_id: this.config.clientId,
+      redirect_uri: this.config.redirectUri,
+      scope: params.scope || this.scopes.join(' '),
+      state: params.state || '',
+      ...(params.loginHint && { login: params.loginHint }),
+    });
+    return `${this.authorizeEndpoint}?${searchParams.toString()}`;
+  }
+
+  async exchangeCodeForTokens(code: string, codeVerifier?: string): Promise<OIDCTokens> {
+    throw new Error('Method not implemented.');
+  }
+
+  async refreshAccessToken(refreshToken: string): Promise<OIDCTokens> {
+    throw new Error('Method not implemented.');
+  }
+
+  async getUserProfile(accessToken: string): Promise<UserProfile> {
+    throw new Error('Method not implemented.');
+  }
+
+  async revokeToken(token: string): Promise<void> {
+    throw new Error('Method not implemented.');
+  }
+
+  async logout(idToken?: string): Promise<string | null> {
+    return null;
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "sub": "auth0|user123456789",
+  "email": "john.doe@example.com",
+  "email_verified": true,
+  "name": "John Doe",
+  "given_name": "John",
+  "family_name": "Doe",
+  "nickname": "johndoe",
+  "picture": "https://s.gravatar.com/avatar/user123456789",
+  "locale": "en",
+  "updated_at": "2024-01-15T12:00:00.000Z",
+  "user_metadata": {
+    "theme": "dark"
+  },
+  "app_metadata": {
+    "roles": ["admin"]
+  }
+}

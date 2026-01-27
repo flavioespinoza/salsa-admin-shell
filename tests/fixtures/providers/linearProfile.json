@@ -1,0 +1,18 @@
+{
+  "sub": "linear-user-12345678-1234-1234-1234-123456789012",
+  "id": "12345678-1234-1234-1234-123456789012",
+  "name": "John Doe",
+  "displayName": "John",
+  "email": "john.doe@linear.app",
+  "avatarUrl": "https://linear.app/avatars/12345678-1234-1234-1234-123456789012",
+  "active": true,
+  "admin": true,
+  "guest": false,
+  "createdAt": "2020-01-15T10:30:00.000Z",
+  "updatedAt": "2024-01-15T12:00:00.000Z",
+  "lastSeen": "2024-01-15T12:00:00.000Z",
+  "organization": {
+    "id": "org-12345678",
+    "name": "Acme Corp"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sub": "discord-user-123456789012345678",
+  "id": "123456789012345678",
+  "username": "johndoe",
+  "discriminator": "1234",
+  "global_name": "John Doe",
+  "avatar": "a_1234567890abcdef1234567890abcdef",
+  "email": "john.doe@discord.com",
+  "verified": true,
+  "mfa_enabled": true,
+  "premium_type": 2,
+  "flags": 64,
+  "public_flags": 64,
+  "locale": "en-US"
+}

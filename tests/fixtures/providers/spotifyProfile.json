@@ -1,0 +1,28 @@
+{
+  "sub": "spotify-user-1234567890abcdefghij",
+  "id": "1234567890abcdefghij",
+  "display_name": "John Doe",
+  "email": "john.doe@spotify.com",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/user/1234567890abcdefghij"
+  },
+  "href": "https://api.spotify.com/v1/users/1234567890abcdefghij",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6775700000ee85",
+      "height": 300,
+      "width": 300
+    }
+  ],
+  "type": "user",
+  "uri": "spotify:user:1234567890abcdefghij",
+  "followers": {
+    "total": 42
+  },
+  "country": "US",
+  "product": "premium",
+  "explicit_content": {
+    "filter_enabled": false,
+    "filter_locked": false
+  }
+}

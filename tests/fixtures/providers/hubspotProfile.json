@@ -1,0 +1,17 @@
+{
+  "sub": "hubspot-user-12345678",
+  "user": "john.doe@company.com",
+  "user_id": 12345678,
+  "hub_domain": "company.hubspot.com",
+  "hub_id": 87654321,
+  "app_id": 11111111,
+  "token_type": "access",
+  "scopes": ["oauth", "crm.objects.contacts.read"],
+  "expires_in": 1800,
+  "profile": {
+    "id": 12345678,
+    "email": "john.doe@company.com",
+    "firstName": "John",
+    "lastName": "Doe"
+  }
+}

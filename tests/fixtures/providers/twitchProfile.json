@@ -1,0 +1,13 @@
+{
+  "sub": "twitch-user-123456789",
+  "aud": "abc123def456ghi789",
+  "azp": "abc123def456ghi789",
+  "exp": 1705406400,
+  "iat": 1705320000,
+  "iss": "https://id.twitch.tv/oauth2",
+  "preferred_username": "johndoe",
+  "email": "john.doe@twitch.tv",
+  "email_verified": true,
+  "picture": "https://static-cdn.jtvnw.net/jtv_user_pictures/johndoe-profile_image-300x300.png",
+  "updated_at": "2024-01-15T12:00:00Z"
+}

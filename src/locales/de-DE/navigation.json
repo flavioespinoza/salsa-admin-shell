@@ -1,0 +1,28 @@
+{
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "users": "Benutzer",
+    "settings": "Einstellungen",
+    "auditLog": "Audit-Protokoll",
+    "providers": "Identitätsanbieter",
+    "applications": "Anwendungen",
+    "policies": "Richtlinien",
+    "reports": "Berichte"
+  },
+  "header": {
+    "search": "Suchen...",
+    "notifications": "Benachrichtigungen",
+    "profile": "Profil",
+    "help": "Hilfe",
+    "logout": "Abmelden"
+  },
+  "breadcrumb": {
+    "home": "Startseite",
+    "back": "Zurück"
+  },
+  "tabs": {
+    "general": "Allgemein",
+    "security": "Sicherheit",
+    "advanced": "Erweitert"
+  }
+}

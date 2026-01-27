@@ -1,0 +1,34 @@
+{
+  "general": {
+    "title": "Allgemeine Einstellungen",
+    "language": "Sprache",
+    "timezone": "Zeitzone",
+    "dateFormat": "Datumsformat",
+    "theme": "Design",
+    "themes": {
+      "light": "Hell",
+      "dark": "Dunkel",
+      "system": "System"
+    }
+  },
+  "security": {
+    "title": "Sicherheitseinstellungen",
+    "mfa": "Zwei-Faktor-Authentifizierung",
+    "mfaDescription": "Fügen Sie Ihrem Konto eine zusätzliche Sicherheitsebene hinzu.",
+    "sessionTimeout": "Sitzungs-Timeout",
+    "passwordPolicy": "Passwortrichtlinie",
+    "ipWhitelist": "IP-Whitelist"
+  },
+  "notifications": {
+    "title": "Benachrichtigungseinstellungen",
+    "email": "E-Mail-Benachrichtigungen",
+    "push": "Push-Benachrichtigungen",
+    "sms": "SMS-Benachrichtigungen",
+    "frequency": "Benachrichtigungshäufigkeit"
+  },
+  "actions": {
+    "save": "Änderungen Speichern",
+    "cancel": "Abbrechen",
+    "reset": "Auf Standard Zurücksetzen"
+  }
+}

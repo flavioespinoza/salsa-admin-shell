@@ -1,0 +1,17 @@
+{
+  "sub": "facebook-user-10123456789012345",
+  "id": "10123456789012345",
+  "name": "John Doe",
+  "first_name": "John",
+  "last_name": "Doe",
+  "email": "john.doe@facebook.com",
+  "picture": {
+    "data": {
+      "url": "https://platform-lookaside.fbsbx.com/platform/profilepic/",
+      "width": 50,
+      "height": 50,
+      "is_silhouette": false
+    }
+  },
+  "link": "https://www.facebook.com/johndoe"
+}

@@ -1,0 +1,66 @@
+.page {
+  padding: 1.5rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.title {
+  font-size: 1.875rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin: 0;
+}
+
+.subtitle {
+  font-size: 1rem;
+  color: var(--color-text-secondary);
+  margin: 0.5rem 0 0;
+}
+
+.card {
+  overflow: hidden;
+}
+
+.toolbar {
+  padding: 1rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.searchInput {
+  max-width: 320px;
+}
+
+.userCell {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.userInfo {
+  display: flex;
+  flex-direction: column;
+}
+
+.userName {
+  font-weight: 500;
+  color: var(--color-text);
+}
+
+.userEmail {
+  font-size: 0.75rem;
+  color: var(--color-text-secondary);
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+  border-top: 1px solid var(--color-border);
+}

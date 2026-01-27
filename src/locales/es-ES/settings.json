@@ -1,0 +1,34 @@
+{
+  "general": {
+    "title": "Configuración General",
+    "language": "Idioma",
+    "timezone": "Zona Horaria",
+    "dateFormat": "Formato de Fecha",
+    "theme": "Tema",
+    "themes": {
+      "light": "Claro",
+      "dark": "Oscuro",
+      "system": "Sistema"
+    }
+  },
+  "security": {
+    "title": "Configuración de Seguridad",
+    "mfa": "Autenticación de Dos Factores",
+    "mfaDescription": "Añada una capa extra de seguridad a su cuenta.",
+    "sessionTimeout": "Tiempo de Sesión",
+    "passwordPolicy": "Política de Contraseñas",
+    "ipWhitelist": "Lista Blanca de IP"
+  },
+  "notifications": {
+    "title": "Configuración de Notificaciones",
+    "email": "Notificaciones por Email",
+    "push": "Notificaciones Push",
+    "sms": "Notificaciones SMS",
+    "frequency": "Frecuencia de Notificaciones"
+  },
+  "actions": {
+    "save": "Guardar Cambios",
+    "cancel": "Cancelar",
+    "reset": "Restablecer Valores"
+  }
+}

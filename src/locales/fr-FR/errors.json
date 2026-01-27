@@ -1,0 +1,28 @@
+{
+  "auth": {
+    "invalidCredentials": "E-mail ou mot de passe invalide.",
+    "accountLocked": "Votre compte a été verrouillé. Veuillez contacter le support.",
+    "sessionExpired": "Votre session a expiré. Veuillez vous reconnecter.",
+    "unauthorized": "Vous n'êtes pas autorisé à effectuer cette action.",
+    "mfaRequired": "L'authentification à deux facteurs est requise.",
+    "mfaInvalid": "Code de vérification invalide. Veuillez réessayer."
+  },
+  "validation": {
+    "required": "Ce champ est obligatoire.",
+    "email": "Veuillez entrer une adresse e-mail valide.",
+    "minLength": "Doit contenir au moins {{min}} caractères.",
+    "maxLength": "Ne doit pas dépasser {{max}} caractères.",
+    "passwordMismatch": "Les mots de passe ne correspondent pas.",
+    "invalidFormat": "Format invalide."
+  },
+  "network": {
+    "connectionFailed": "Échec de la connexion. Veuillez vérifier votre connexion internet.",
+    "timeout": "La requête a expiré. Veuillez réessayer.",
+    "serverError": "Une erreur s'est produite. Veuillez réessayer plus tard."
+  },
+  "generic": {
+    "unknown": "Une erreur inattendue s'est produite.",
+    "notFound": "La ressource demandée n'a pas été trouvée.",
+    "forbidden": "Vous n'avez pas la permission d'accéder à cette ressource."
+  }
+}
